@@ -1,4 +1,4 @@
-### Prometheus
+### Checklist app
 
 This repository is meant to be a tutorial for Prometheus and Grafana.
 
@@ -18,9 +18,13 @@ documentação: https://medium.com/tech-grupozap/prometheus-monitorando-a-sa%C3%
 
 documentação colhendo metricas com prometheus: https://linuxhint.com/monitor-python-applications-prometheus/
 
+documentação configuração cloudwacth, para coleta de metricas em instâncias EC2: https://docs.aws.amazon.com/pt_br/AmazonCloudWatch/latest/monitoring/CloudWatch-Agent-PrometheusEC2.html
+
+exemplo utilização do appdynamics em python: https://github.com/Appdynamics/Python-Demo-App
+
 open telemetry com python: https://github.com/open-telemetry/opentelemetry-python
 
-## Fluxo
+#### Fluxo
 <h1 align="center">
   <img src="https://github.com/MateusMaceedo/Prometheus-Grafana-Observability/blob/main/img/fluxo%20check%20list.png?raw=true">
 </h1>
